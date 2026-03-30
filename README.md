@@ -6,7 +6,7 @@ A full-stack web application inspired by Airbnb, built to learn and implement mo
 
 ## 🚀 Live Demo
 
-👉 https://your-render-link.onrender.com
+👉 https://airbnb-clone-6uwd.onrender.com
 
 ---
 
