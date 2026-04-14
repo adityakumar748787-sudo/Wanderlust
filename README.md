@@ -1,6 +1,6 @@
 # 🏡 Airbnb Clone (Full Stack Project)
 
-A full-stack web application inspired by Airbnb, built to learn and implement modern web development concepts including backend, database, authentication, and deployment.
+A full-stack web application inspired by Airbnb, built to learn and implement modern web development concepts including backend, database, authentication,and deployment.
 
 ---
 
@@ -27,7 +27,7 @@ A full-stack web application inspired by Airbnb, built to learn and implement mo
 ### Frontend
 
 * EJS (Embedded JavaScript Templates)
-* HTML, CSS, Bootstrap
+* HTML,CSS, Bootstrap
 
 ### Backend
 
