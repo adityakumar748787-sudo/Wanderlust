@@ -22,7 +22,6 @@ A full-stack web application inspired by Airbnb, built to learn and implement mo
 * Handling real-world errors and debugging
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### Frontend
